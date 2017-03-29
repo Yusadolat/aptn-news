@@ -1,0 +1,11 @@
+{
+    "name": "progress"
+  , "version": "1.1.7"
+  , "description": "Flexible ascii progress bar"
+  , "keywords": ["cli", "progress"]
+  , "author": "TJ Holowaychuk <tj@vision-media.ca>"
+  , "dependencies": {}
+  , "main": "index"
+  , "engines": { "node": ">=0.4.0" }
+  , "repository": "git://github.com/visionmedia/node-progress"
+}
