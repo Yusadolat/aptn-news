@@ -107,9 +107,13 @@ angular-translate@^2.5.2:
   dependencies:
     angular ">=1.2.26 <=1.6"
 
-"angular@>=1.2.26 <=1.6", angular@^1.4.7:
+"angular@>=1.2.26 <=1.6":
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/angular/-/angular-1.6.1.tgz#a7b6d763a74c157325692619e97257e69d9b6a27"
+
+angular@^1.7.9:
+  version "1.7.9"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.7.9.tgz#e52616e8701c17724c3c238cfe4f9446fd570bc4"
 
 ansi-escapes@^1.1.0:
   version "1.4.0"
