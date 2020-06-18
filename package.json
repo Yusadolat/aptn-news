@@ -78,7 +78,7 @@
   },
   "dependencies": {
     "MD5": "^1.2.1",
-    "angular": "^1.7.9",
+    "angular": "^1.8.0",
     "angular-cache": "^4.0.0",
     "angular-highlightjs": "^0.4.1",
     "angular-moment": "^0.10.0",
