@@ -66,7 +66,7 @@
     "ionic": "~2.1.17",
     "json-loader": "^0.5.3",
     "ng-annotate-loader": "~0.0.10",
-    "node-sass": "^3.3.3",
+    "node-sass": "^4.13.1",
     "path": "^0.12.7",
     "sass-loader": "^2.0.1",
     "semver": "^5.0.3",
